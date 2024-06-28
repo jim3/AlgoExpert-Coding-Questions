@@ -51,14 +51,3 @@ matrix = [
   [3, 6, 9]
 ]
 ```
-
----
-
-```py
-    print(matrix[0][1]) # 2
-    print(matrix[1][0]) # 4
-    print(matrix[0][2]) # 3
-    print(matrix[2][0]) # 7
-    print(matrix[1][2]) # 6
-    print(matrix[2][1]) # 8
-```
