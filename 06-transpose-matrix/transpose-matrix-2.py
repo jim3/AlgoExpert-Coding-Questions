@@ -1,4 +1,4 @@
-# Transpose Matrix
+# Transpose Matrix, using a list comprehension
 
 def transposeMatrix(matrix):
     transposed = []
