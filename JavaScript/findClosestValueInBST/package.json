@@ -1,0 +1,11 @@
+{
+  "name": "findclosestvalueinbst",
+  "version": "1.0.0",
+  "description": "AlgoExpert.io Challenge",
+  "main": "findClosestValueInBST.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jim3",
+  "license": "ISC"
+}
